@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 420705c61d1b6435c8aa7b1cbd0ce80a, type: 3}
+  m_Name: SpawnInParkModifier
+  m_EditorClassIdentifier: 
+  Active: 1
+  _spawnRateInSquareMeters: 20
+  _maxSpawn: 1000
+  _prefabs:
+  - {fileID: 6908612657976686086, guid: 9c6fcd7444f9dd44b840b21a32986b31, type: 3}
+  - {fileID: 3151742919379906393, guid: ad12a6d5360ce1b44a89681b0bc9207c, type: 3}
+  _layerMask:
+    serializedVersion: 2
+    m_Bits: 512
+  _scaleDownWithWorld: 1
+  _randomizeScale: 1
+  _randomizeRotation: 1
