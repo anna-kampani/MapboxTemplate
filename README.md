@@ -1,5 +1,5 @@
 # MapboxTemplate
-Template for 3D mapping and geospatial visualisations in Unity3D
+Template for 3D mapping and geospatial visualisations in Unity3D as part of UCL skills module
 
 ## Requirements
 The project is developed with Unity 2019.4.0f1
